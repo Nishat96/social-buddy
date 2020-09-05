@@ -1,0 +1,27 @@
+.commenter-img{
+    margin-right: 30px;
+}
+.comment-details{
+    display: flex;
+    border: 1px solid #442644;
+    padding: 30px 50px;
+    margin-top: 20px;
+    margin-right:  20px;
+    border-radius: 20px;
+    background-color: #ecd3fa;
+    width: 80%;
+      
+}
+.commenter-id{
+    font-size: 15px;
+    color: #7b8123;
+    font-weight: 500;
+}
+.commenter-info{
+    color: #587202;
+    font-weight: 500;
+}
+.comment{
+    color: #59920d;
+    font-weight: 800;
+}

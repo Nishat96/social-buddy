@@ -1,0 +1,30 @@
+body{
+    margin-top: 100px ;
+}
+.post-details{
+    background-color: #bdbcf0f6;
+    margin-left: 200px;
+    border-radius:20px;
+    margin-bottom: 50px;  
+    padding: 50px;
+    width: 60%;
+    margin-top: 15px;
+}
+.post-info{
+    margin-bottom: 40px;
+}
+.userId{
+    font-size: 14px;
+    font-weight: 700;
+    color: #402e55;
+}
+.postTitle{
+    color: #402e55;
+    font-size: 18px;
+    font-weight: 600;
+}
+.postBody{
+    color: #402e55;
+    font-size: 22px;
+    font-weight: 600;
+}
