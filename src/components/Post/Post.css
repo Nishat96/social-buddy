@@ -1,34 +1,28 @@
 body{
     background-color: #e4e7f0;
-    margin-top: 20px;
 }
-.container{
-    display: flex ;
-    border: 1px solid #050374;
+#card-container{
+    width: 1020px;
+    height: 220px;
+    margin-left: 110px;
     background-color: #bdbcf0f6;
-    width: 70%;
-    margin-left: 200px;
-    border-radius:20px;
-    margin-bottom: 20px;  
-}
-.post-area{
-    margin-left: 40px;
-    height: 200px;
+    margin-bottom: 25px;
+    padding-left: 30px;
 }
 .title{
     color: #402e55;
     font-size: 22px;
     font-weight: 500;
 }
-.post-id{
+#post-id{
+    margin-top: 25px;
     font-size: 13px;
     font-weight: 600;
 }
 #show-details{
-    margin-top: 15px;
+    margin-left: 10px;
     font-size: 12px;  
     font-weight: 600;
-    margin-right: 100px;
     background-color: #340d7c;
-    color: #cfcfee;
+    color: #cfcfee;  
 }
