@@ -4,4 +4,4 @@
 * Also can find the profile image who commented on posts.
 
 #### Tools: Html5, Css3, API, React.js, React-routing, React-hooks, Material-UI
-#### Project Link: https://social-buddy-696.netlify.app/
+#### Live Link: https://social-buddy-696.netlify.app/
